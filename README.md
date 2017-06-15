@@ -1,2 +1,2 @@
 # hello-world
-A hello world app
+This is a hello world app. Prints hello world on the console.
